@@ -1,0 +1,20 @@
+html for structure
+css for style
+javascript for interaction
+
+ie.
+1. <input type = "text" style="width: 300px; height: 20px; border: 5px solid red"/> the style is writen in css[go see https://www.w3schools.com/css/css_border_shorthand.asp or search css border] and this in line style
+
+2. margin padding
+https://stackoverflow.com/questions/2189452/when-to-use-margin-vs-padding-in-css/5888753
+2.1 padding https://www.w3schools.com/css/css_padding.asp
+2.2 margin
+
+3. font-family
+https://www.w3schools.com/css/css_font.asp
+
+4. to run javascript, do not forget to use <script src="script.js"></script> line which the src="script.js" can be replace to the name of the script's file
+
+5. https://www.tutorialspoint.com/html-dom-createelement-method
+
+see https://replit.com/@toyeiei/My-First-Web-App
